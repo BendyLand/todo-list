@@ -1,0 +1,1 @@
+/Users/benlandrette/ccode/multi-language-practice/small-practice-projects/todo-list/rust/target/debug/rust: /Users/benlandrette/ccode/multi-language-practice/small-practice-projects/todo-list/rust/src/main.rs
